@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Praveen Kumar</h1>
-<h3 align="center">Data Scientist | Machine Learning & GenAI Solution | Azure Cloud MLOps Practitioner | Power BI</h3>
+<h3 align="center">Data Scientist | Machine Learning & GenAI Solution | Azure Cloud MLOps Practitioner | ELTL | Power BI</h3>
 
 ---
 
