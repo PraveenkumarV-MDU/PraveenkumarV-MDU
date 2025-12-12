@@ -1,95 +1,62 @@
-# My-Profile
 <h1 align="center">Hi 👋, I'm Praveen Kumar</h1>
-<h3 align="center">Data Scientist | Machine Learning Enthusiast | Python & SQL Developer</h3>
+<h3 align="center">Data Scientist | Machine Learning & GenAI Solution | Azure Cloud MLOps Practitioner | Power BI</h3>
 
 ---
 
-### 🚀 About Me  
-I am a passionate **Data Scientist** skilled in transforming raw data into meaningful insights and building end-to-end ML solutions. I enjoy working on real-world data problems, analytics dashboards, and automated workflows.
+## 🚀 About Me  
 
-- 🔭 I’m currently working on: **NASA NEO Asteroid Dataset Analysis**
-- 🌱 I’m learning: **Machine Learning, Streamlit, Cloud Deployment**
-- 👨‍💻 All my projects are available here on GitHub  
-- 💬 Ask me about: **Python, SQL, Machine Learning, Data Visualization**
-- 📫 Reach me at: **yourmail@example.com**
-- ⚡ Fun fact: I love simplifying complex problems using logic & automation
+I am a Data Scientist and Cloud ML Engineer with strong experience in building **end-to-end machine learning pipelines**, **GenAI solutions**, and **cloud-native automation** using Microsoft Azure and AWS. My work spans across ML system design, scalable data engineering, LLM applications, and production-grade observability.
+
+I specialize in integrating **Data Science + Cloud + MLOps + GenAI** to deliver high-impact solutions across industries such as **Sales Intelligence**, **Life Sciences**, **Healthcare**, and **Analytics Engineering**.
 
 ---
 
-## 🛠️ Tech Stack
+## 🔥 Core Expertise  
 
-**Languages**
-<p>
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=database&logoColor=white" />
-</p>
+### 🧠 **Machine Learning & AI**
+- Supervised & unsupervised ML models  
+- Feature engineering & optimization  
+- Ensemble modeling & model tuning  
+- LLM applications using Azure OpenAI  
+- RAG-based chatbot development  
+- Document summarization & structured extraction  
 
-**Tools & Frameworks**
-<p>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=blue" />
-</p>
+### ☁️ **Cloud Machine Learning (Azure + AWS)**
+- **Azure Machine Learning**: pipelines, compute clusters, deployments  
+- **Azure AI Foundry**: flow development, custom copilots, evaluation  
+- **Azure OpenAI**: GPT-based assistants, embeddings, content generation  
+- **AWS SageMaker**: training jobs, model registry, batch inference  
+- Serverless ML using **Lambda**, **EventBridge**, **API Gateway**
 
-**Cloud & DevOps**
-<p>
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
+### 🔁 **MLOps & Model Governance**
+- CI/CD for ML (GitHub Actions, Azure DevOps)  
+- Model versioning, lineage, and registry  
+- Model drift detection & performance dashboards  
+- Real-time alerting & automated retraining loops  
+- Monitoring inference latency, accuracy, data shifts  
 
----
+### 🧬 **Healthcare & Life Science AI**
+- Cancer prediction ML models  
+- Patient report summarization using LLMs  
+- Visual analytics dashboards for clinical workflows    
 
-## 📌 Featured Projects
+### 📈 Sales Analytics, Customer Segmentation & Business Intelligence
+- Customer segmentation using SQL and Power BI to understand buying patterns and behavior  
+- Product performance analysis across categories to identify sales leaders and underperforming SKUs  
+- **Top-selling product insights**: using SQL aggregations and Power BI dashboards to highlight the most-sold products from a wide product portfolio  
+  - Monthly/weekly sales trend comparison  
+  - Revenue contribution breakdown  
+  - Profitability insights and SKU-wise performance  
+  - Seasonality and demand spikes  
+- Promotional strategy support: showcasing key product features, customer value propositions, and sales drivers to boost marketing ROI  
+- Visualization using **Power BI**, **SQL** queries, and **Python (Matplotlib/Seaborn/Plotly)** for deeper analytics  
+- Actionable dashboards for leadership: category filters, trend lines, heatmaps, contribution charts   
 
-### 🔭 **NASA NEO Dataset Analysis**
-🚀 A complete analytics and dashboard project using Python, SQL & Streamlit  
-👉 *Tech:* Pandas, SQL, Visualization, EDA  
-🔗 **Repo:** [NASA NEO Dataset](#)
-
----
-
-### 📊 **Sales Data Forecasting Pipeline**
-Predictive modeling pipeline using Time Series  
-🔗 Repo: *(Add link)*
-
----
-
-### 🧠 **Machine Learning Model Playground**
-Collection of ML algorithms implemented from scratch  
-🔗 Repo: *(Add link)*
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=PraveenkumarV-MDU&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=PraveenkumarV-MDU&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PraveenkumarV-MDU&layout=compact&theme=tokyonight" />
-</p>
+### 🤖 **GenAI Assistants**
+- Sales intelligence copilots (lead scoring, email automation, opportunity insights)  
+- Healthcare report summarization & clinical assistant agents  
+- Data exploration chat agents for BI teams  
+- Custom LLM evaluation frameworks  
 
 ---
 
-## 🏆 Achievements & Badges
-
-- ✔ Completed 20+ data projects  
-- 🎓 Certifications: Data Science, SQL, ML  
-- 🏅 Python and SQL problem solving streaks  
-
----
-
-## 🔗 Connect With Me
-
-<p>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-</p>
-
----
-
-⭐ **Feel free to explore my repositories and drop a star if you like my work!**
