@@ -11,6 +11,28 @@ I specialize in integrating **Data Science + Cloud + MLOps + GenAI** to deliver 
 
 ---
 
+## 🛠️ Tech Stack
+
+### **Languages**
+Python • SQL • 
+
+### **ML & Data**
+Pandas • NumPy • Scikit-learn • XGBoost • Matplotlib • Seaborn  
+
+### **Azure Cloud**
+Azure Machine Learning • Azure AI Foundry • Azure OpenAI • Azure Storage • Azure Functions • Azure DevOps  
+
+### **AWS Cloud**
+SageMaker • Lambda • EC2 • S3 • CloudWatch • ECR  
+
+### **MLOps Tools**
+GitHub Actions • MLflow • Docker
+
+### **Frontend & Apps**
+Streamlit • Power BI  
+
+---
+
 ## 🔥 Core Expertise  
 
 ### 🧠 **Machine Learning & AI**
@@ -60,3 +82,18 @@ I specialize in integrating **Data Science + Cloud + MLOps + GenAI** to deliver 
 
 ---
 
+## 🏅 Certifications & Learning  
+- DP-100 Azure Data Scientist Associate (in progress)  
+- MLS-C01 AWS Machine Learning Speciality (target) 
+- Continuous learning in GenAI, MLOps & LLM agent development  
+
+---
+
+## 📌 Featured Projects (For DP-100 Certification)
+
+### 🔭 **1. NASA NEO Asteroid Analytics Platform**
+A full-stack project performing EDA, visualization & insights extraction for asteroid close approaches.  
+Includes filters, interactive dashboards & SQL analytics.  
+**Tech:** Python, SQL, Streamlit, Plotly, Matplotlib, VS Code  
+
+---
